@@ -53,7 +53,7 @@ The analysis uncovered several key insights and actionable recommendations:
    - **Recommendation**: Optimize feature selection in predictive models to avoid redundancy.
 
 7. **Income and DTI Analysis**:
-   - High Debt-to-Income (DTI) ratios and low annual incomes (< $40,000) are associated with higher defaults.
+   - High Debt-to-Income (DTI) ratios and low annual incomes (< 40,000) are associated with higher defaults.
    - **Recommendation**: Set stricter loan limits for borrowers with high DTI ratios and low incomes.
 
 8. **Geographic Risk**:
@@ -85,7 +85,7 @@ This project was inspired by:
 ## Collaborators
 
 This project was developed by:
-- @Satishchahar1 (https://github.com/Satishchahar1) 
+- @Satishchahar1 (https://github.com/Satishchahar1) & Aditya Sarda
 - 
 
 Feel free to contribute, raise issues, or suggest improvements for this project.
