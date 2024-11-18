@@ -29,8 +29,8 @@ The analysis focuses on:
 The analysis uncovered several key insights and actionable recommendations:
 
 1. **Loan Amount Distribution**:
-   - Most loans range between $5,000 and $15,000, with a peak around $10,000.
-   - **Recommendation**: Focus on risk assessment for loan amounts exceeding $15,000 as they show higher variance in outcomes.
+   - Most loans range between 5,000 and 15,000, with a peak around 10,000.
+   - **Recommendation**: Focus on risk assessment for loan amounts exceeding 15,000 as they show higher variance in outcomes.
 
 2. **Loan Status Count**:
    - A significant portion of loans is "Charged Off," emphasizing the need for improved risk evaluation.
